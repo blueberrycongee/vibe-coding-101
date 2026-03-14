@@ -19,6 +19,11 @@
 - [[pieter-levels-ship-fast]] — Pieter Levels 的极速发布
 - [[riley-brown-voice-first]] — Riley Brown 的语音优先实践
 - [[amjad-masad-replit]] — Replit 的商业化实践
+- [[kevin-roose-software-for-one]] — Kevin Roose 的"一人软件"
+- [[thorsten-ball-agent-coding]] — Thorsten Ball 的 Agent 编程转型
+- [[mckay-wrigley-cursor-workflow]] — McKay Wrigley 的 Cursor 工作流
+- [[sahil-lavingia-ai-first]] — Sahil Lavingia 的 AI-First 极简团队
+- [[no-code-app-builders]] — 零代码应用构建器对比
 
 ## workflow
 端到端的工作流方法。
@@ -30,6 +35,9 @@
 - [[subagents-for-review]] — Subagents 做代码审查
 - [[boris-cherny-vibecoding]] — Boris Cherny 完整工作流
 - [[simon-willison-ai-coding]] — Simon Willison 的实践技巧
+- [[shrivu-shankar-claude-code-features]] — Claude Code 全功能实战
+- [[mckay-wrigley-cursor-workflow]] — McKay Wrigley 的 Cursor 工作流
+- [[sahil-lavingia-ai-first]] — Sahil Lavingia 的 Slack 到生产 10 分钟
 
 ## quality / code-review
 代码质量保障和审查方法。
@@ -44,6 +52,8 @@
 - [[plan-mode-workflow]] — 复杂任务先 plan 再实现
 - [[invest-in-claude-md]] — 持续投资项目规则文件
 - [[prototype-discard-retry]] — 用原型发现未知
+- [[shrivu-shankar-claude-code-features]] — CLAUDE.md 是你的"宪法"
+- [[mckay-wrigley-cursor-workflow]] — Cursor Rules for AI 配置技巧
 
 ## architecture / software-evolution / llm
 宏观架构和软件演进趋势。
@@ -72,12 +82,15 @@
 - [[prototype-discard-retry]] — 原型的价值在于发现，不在于代码
 - [[karpathy-menugen-last-mile]] — 部署是 vibe coding 的真正瓶颈
 - [[karpathy-nanochat-failure]] — 偏离数据分布时 AI 无力
+- [[no-code-app-builders]] — 零代码构建器帮你走完前 70%
 
 ## indie-hacking / shipping
 独立开发和快速发布。
 
 - [[pieter-levels-ship-fast]] — fly.pieter.com $1M ARR 案例
 - [[amjad-masad-replit]] — 用 Replit Agent 从想法到产品
+- [[sahil-lavingia-ai-first]] — Gumroad $10M ARR / 1 人运营
+- [[no-code-app-builders]] — Lovable / Bolt.new / v0 / Replit Agent
 
 ## voice-coding / trends
 语音编程和行业趋势。

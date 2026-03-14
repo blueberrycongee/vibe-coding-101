@@ -63,6 +63,36 @@ AI Coding 内容创作者（TikTok 635K+），VibeCode App 联合创始人，语
 - 条目：
   - `notes/riley-brown-voice-first.md` — 语音优先的 Vibe Coding 实践
 
+## Kevin Roose
+《纽约时报》科技专栏记者，非程序员，提出"一人软件"（Software for One）概念。
+- 来源：[X](https://x.com/kevinroose), [New York Times](https://www.nytimes.com/)
+- 条目：
+  - `notes/kevin-roose-software-for-one.md` — Vibe Coding 与"一人软件"
+
+## Thorsten Ball
+Amp 开发者，《Writing An Interpreter In Go》作者，从手写代码转向 agent 编程的实践者。
+- 来源：[Register Spill (Substack)](https://registerspill.thorstenball.com/)
+- 条目：
+  - `notes/thorsten-ball-agent-coding.md` — 从手写代码到 Agent 编程
+
+## McKay Wrigley
+Cursor AI 编程教育领域最知名的内容创作者，"Complete Cursor" 课程作者。
+- 来源：[X](https://x.com/mckaywrigley)
+- 条目：
+  - `notes/mckay-wrigley-cursor-workflow.md` — Cursor Vibe Coding 工作流
+
+## Sahil Lavingia
+Gumroad 创始人，$10M ARR / 1 人运营，Vibe Coder VC 基金发起者。
+- 来源：[sahillavingia.com](https://sahillavingia.com), [Podcast](https://www.news.aakashg.com/p/sahil-lavingia-podcast)
+- 条目：
+  - `notes/sahil-lavingia-ai-first.md` — AI-First 的极简团队实践
+
+## Shrivu Shankar
+Claude Code 深度用户，团队级 AI 编程工具链搭建者。
+- 来源：[Substack](https://blog.sshh.io/)
+- 条目：
+  - `notes/shrivu-shankar-claude-code-features.md` — Claude Code 全功能实战指南
+
 ---
 
 ## 观点光谱
@@ -77,3 +107,8 @@ AI Coding 内容创作者（TikTok 635K+），VibeCode App 联合创始人，语
 | **Pieter Levels** | 高度拥抱 | 极简栈 + Cursor = $1M ARR 飞行模拟器 |
 | **Riley Brown** | 最热情拥抱 | 语音优先、零代码，App 开发 = Canva |
 | **Amjad Masad** | 不喜欢这个词，但全力商业化 | "别 vibe code，just vibe"——Replit 是最大平台 |
+| **Kevin Roose** | 积极实践 | "一人软件"——非程序员也能为自己写工具 |
+| **Thorsten Ball** | 务实拥抱 | 手写/AI 代码比例已翻转，不是所有代码都值得手写 |
+| **McKay Wrigley** | 教育布道 | 8 分钟克隆 Perplexity，Cursor 课程教小白上手 |
+| **Sahil Lavingia** | 极致实践 | $10M ARR / 1 人，Slack 到生产 10 分钟 |
+| **Shrivu Shankar** | 深度进阶 | Claude Code 全功能实战，团队级 token 消耗 |

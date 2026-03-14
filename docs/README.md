@@ -11,6 +11,7 @@
 8. `07-tools.md`
 9. `08-ethics.md`
 10. `09-roadmap.md`
+11. `10-tool-install-guide.md`
 
 补充参考：
 - `../notes/README.md`

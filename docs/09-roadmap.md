@@ -6,15 +6,16 @@
 - [x] Boris Cherny 公开发言调研和原子笔记
 - [x] 建立 notes 规范（YAML front matter + 模板）
 - [x] 多语言 README（8 种语言）
+- [x] 补充更多人物——Kevin Roose、Thorsten Ball、McKay Wrigley、Sahil Lavingia、Shrivu Shankar
+- [x] 零代码应用构建器对比——Lovable、Bolt.new、v0、Replit Agent
+- [x] 工具安装指南——Claude Code、Codex CLI、Gemini CLI、Copilot CLI、OpenCode、Aider、Cursor、Windsurf
 
 ## 近期待办
 
 - [ ] 完善核心术语表（vibecoding、plan mode、subagent、slash command 等）
-- [ ] Andrej Karpathy 调研——从原始 X 帖子到后续发言的完整时间线
-- [ ] 补充更多人物——Simon Willison、Swyx、Fireship、Pieter Levels 等
-- [ ] 充实工具实践——Claude Code、Cursor、Copilot 的具体 vibe coding 用法
 - [ ] 增加 3-5 个可复用案例到 `docs/06-case-studies.md`
 - [ ] 补充语言相关的 vibecoding 技巧（TypeScript、Python 等）
+- [ ] 补充 people/ 目录的人物档案页（目前只有模板）
 
 ## 中期目标
 
