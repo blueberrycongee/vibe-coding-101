@@ -1,35 +1,63 @@
 ---
-tags: [person/boris-cherny, topic/vibecoding, topic/claude-code, source/podcast]
+tags: [person/boris-cherny, topic/vibecoding, topic/claude-code, topic/workflow, source/transcript, source/x]
 ---
-# Boris Cherny on vibecoding (timeline)
+# Boris Cherny on vibecoding and Claude Code (timeline)
 
-This note summarizes **public statements** from Boris Cherny about vibecoding and how he uses Claude Code. It is **source-based**, not exhaustive.
+This is a best-effort, source-based summary of **Boris Cherny’s public statements** about vibecoding and how he uses/frames Claude Code. It is **not guaranteed to be exhaustive**.
 
-## 2025-10-29 (updated 2026-01-28) — Every.to transcript
-Source: “How to Use Claude Code Like the People Who Built It” (AI & I podcast transcript).
+## 2025-05-08 — Latent Space Podcast (Claude Code: Anthropic's Agent in Your Terminal)
+Source: Latent Space transcript.
 
-Key points:
-- **Dual‑use tools**: He frames Claude Code tools as useful for both humans and the model, which shapes tool design.
-- **Workflow leverage**: Uses slash commands and hooks to encode repeatable steps (e.g., commit flows).
-- **Agent scaling**: Emphasizes long‑running agent loops and automation hooks to keep tasks moving.
+Key points (tool philosophy):
+- Claude Code is positioned as a **raw, power-user tool** for big workloads, closer to a Unix utility than a polished IDE UI.
+- **Human review remains essential** even when a large share of code is model-written; some intricate parts are still handwritten when the author has strong opinions.
+- MCP and custom commands are optional layers; users should not be locked into a single technology choice.
 
-Notes:
-- This source focuses more on **tooling patterns** and **workflow design** than “vibe coding” as a label.
+Sources:
+- https://www.latent.space/p/claude-code
+
+## 2025-10-29 (updated 2026-01-28) — Every.to AI & I transcript
+Source: “How to Use Claude Code Like the People Who Built It.”
+
+Key points (workflow and modes):
+- **Prototyping mode**: Boris often lets Claude build a rough version to discover unknowns, then discards and retries to refine understanding.
+- **Plan mode**: for harder feature work, he aligns on a plan first (Shift+Tab in Claude Code), then proceeds to implementation; the boundary of when to plan shifts with model capability.
+- **Plan mode improves success rate**; he explicitly recommends using it more and asks Claude to ask clarifying questions during planning.
+- **Subagents**: used for code review and large migrations; he fans out multiple subagents, then dedupes false positives.
+- **Slash commands**: used to standardize workflows (commit/PR/feature dev), pre-allow permissions, and speed up common tasks.
+- **Stop hooks**: can be used to auto-continue (e.g., re-run until tests pass).
+
+Sources:
+- https://every.to/podcast/transcript-how-to-use-claude-code-like-the-people-who-built-it
 
 ## 2025-12-15 — The Peterman Pod transcript (Developing Dev)
-Source: “Boris Cherny (Creator of Claude Code) On How His Career Grew” (Developing Dev transcript).
+Source: “Boris Cherny (Creator of Claude Code) On How His Career Grew.”
 
 Key points (vibecoding stance):
-- **Vibecoding is situational**: useful for **throwaway/prototype** code, not for all code paths.
-- **Maintainability matters**: he says you sometimes need to be “thoughtful about every line.”
-- **Same quality bar**: AI‑generated code must meet the same standards as human code; if it’s bad, you rework it.
-- **Pairing > one‑shot**: most of the time he **pairs with the model**, aligns on a plan (plan mode), iterates, and cleans up.
-- **Hand‑write critical parts**: for core/critical sections he still writes code himself.
+- **Vibecoding is situational**, mainly useful for **throwaway/prototype** work, not for all code paths.
+- **Same quality bar** for AI and human code; if it’s bad, don’t merge, iterate until it meets the standard.
+- **Pairing over one-shot**: typically aligns on a plan, reviews the output, asks for cleanup, and iterates.
+- **Handwrites critical parts** when he has strong opinions on design details.
+
+Sources:
+- https://www.developing.dev/p/boris-cherny-creator-of-claude-code
+
+## 2026-01-31 — X thread (workflow tips)
+Source: @bcherny thread (Thread Reader App mirror).
+
+Highlights:
+- **Parallelism**: run 3–5 Claude sessions in parallel using git worktrees/checkouts.
+- **Start complex tasks in plan mode**; re-plan when things go sideways.
+- **Invest in CLAUDE.md** (project rules) and keep it updated after mistakes.
+- **Create skills/commands** for repeated tasks; commit them to git.
+- **Use subagents** to throw more compute at problem chunks and keep context clean.
+
+Sources:
+- https://threadreaderapp.com/thread/2017742741636321619.html
 
 ## Coverage notes
-- Boris’s personal blog (borischerny.com) lists posts through 2024 but **does not include vibecoding‑specific posts** as of 2026‑03‑14.
+- Boris’s personal blog lists posts through 2024; there are **no vibecoding-specific posts** there as of 2026-03-14.
+- There are additional interviews (e.g., newsletters, podcasts) behind paywalls or not fully transcribed. If you provide links, I can extend this timeline.
 
-## Sources
-- Every.to transcript: https://every.to/podcast/transcript-how-to-use-claude-code-like-the-people-who-built-it
-- Developing Dev transcript (The Peterman Pod): https://www.developing.dev/p/boris-cherny-creator-of-claude-code
-- Boris Cherny’s blog index: https://borischerny.com/
+Sources:
+- https://borischerny.com/
