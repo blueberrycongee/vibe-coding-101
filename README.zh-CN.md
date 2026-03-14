@@ -25,6 +25,16 @@
 9. `docs/08-ethics.md`：引用、版权与责任
 10. `docs/09-roadmap.md`：后续路线图
 
+## 推荐用 Lumina Note 打开
+
+本仓库是一个**双链 + 标签 + 图谱**驱动的知识库。推荐使用 [Lumina Note](https://github.com/LuminaNote/lumina-note) 打开，获得最佳阅读体验：
+
+- `[[双链]]` 自动索引 + 局部关系图
+- `#标签` 全局聚合统计
+- `> [!callout]` 提示框（13 种内置类型 + 自定义 emoji）
+- Mermaid 流程图 / 关系图直接渲染
+- 知识图谱可视化全部 21 篇笔记及其关联关系
+
 ## 仓库结构
 - `docs/`：线性教程主线
 - `notes/`：原子技巧条目（标签 + 双链）

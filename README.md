@@ -25,6 +25,16 @@ A structured vibecoding tutorial repository: collect notable techniques, distill
 9. `docs/08-ethics.md` — Attribution, copyright, responsibility
 10. `docs/09-roadmap.md` — Roadmap
 
+## Open with Lumina Note
+
+This repository is designed as a **knowledge base with wikilinks, tags, and graph view**. For the best reading experience, open it in [Lumina Note](https://github.com/LuminaNote/lumina-note) — a local-first AI note-taking app that natively supports:
+
+- `[[wikilinks]]` with backlink index and local graph
+- `#tags` with global tag aggregation
+- `> [!callout]` blocks (13 built-in types + custom emoji)
+- Mermaid diagrams rendered inline
+- Knowledge graph visualization of all 21 notes and their connections
+
 ## Repository Structure
 - `docs/` — Linear tutorial track
 - `notes/` — Atomic techniques (tags + backlinks)

@@ -1,5 +1,5 @@
 ---
-tags: [person/boris-cherny, topic/vibecoding, topic/claude-code, topic/workflow, source/transcript, source/x]
+tags: [person/boris-cherny, topic/vibecoding, tool/claude-code, topic/workflow, source/transcript, source/x]
 ---
 # Boris Cherny on vibecoding and Claude Code (timeline)
 
@@ -61,3 +61,5 @@ Sources:
 
 Sources:
 - https://borischerny.com/
+
+相关：[[prototype-discard-retry]]、[[plan-mode-workflow]]、[[parallel-sessions-worktrees]]、[[subagents-for-review]]、[[invest-in-claude-md]]、[[slash-commands-standardize]]、[[vibecoding-is-situational]]、[[human-review-essential]]
