@@ -1,4 +1,5 @@
 ---
+title: "Karpathy 提出 Vibe Coding 概念"
 tags: [person/andrej-karpathy, topic/vibecoding, source/x]
 ---
 # Karpathy 提出 "Vibe Coding" 概念

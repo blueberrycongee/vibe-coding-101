@@ -1,4 +1,5 @@
 ---
+title: "Karpathy：从 Vibe Coding 到 Agentic Engineering"
 tags: [person/andrej-karpathy, topic/vibecoding, topic/agentic-engineering, source/x]
 ---
 # Karpathy 提出 "Agentic Engineering" 替代 Vibe Coding

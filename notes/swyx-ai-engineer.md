@@ -1,4 +1,5 @@
 ---
+title: "Swyx：反对 Vibe Coding，主张 AI Engineering"
 tags: [person/swyx, topic/vibecoding, topic/ai-engineering, topic/tiny-teams, source/podcast, source/blog]
 ---
 # Swyx: 反对 Vibe Coding，主张 AI Engineering 和 Tiny Teams

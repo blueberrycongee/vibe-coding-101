@@ -1,4 +1,5 @@
 ---
+title: "Riley Brown：语音优先的 Vibe Coding"
 tags: [person/riley-brown, topic/vibecoding, topic/voice-coding, tool/cursor, source/x, source/tiktok]
 ---
 # Riley Brown: 语音优先的 Vibe Coding 实践

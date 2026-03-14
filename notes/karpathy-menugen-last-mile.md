@@ -1,4 +1,5 @@
 ---
+title: "Karpathy 的 MenuGen：最后一公里问题"
 tags: [person/andrej-karpathy, topic/vibecoding, topic/deployment, source/blog]
 ---
 # Karpathy 的 MenuGen 实践：最后一公里问题

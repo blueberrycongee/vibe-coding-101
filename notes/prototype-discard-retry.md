@@ -1,4 +1,5 @@
 ---
+title: "原型-丢弃-重试"
 tags: [person/boris-cherny, topic/workflow, topic/prototyping]
 ---
 # 原型-丢弃-重试（Prototype-Discard-Retry）

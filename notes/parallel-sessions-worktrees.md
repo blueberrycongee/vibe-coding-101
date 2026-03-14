@@ -1,4 +1,5 @@
 ---
+title: "并行会话与 Git Worktrees"
 tags: [person/boris-cherny, topic/workflow, topic/parallelism, tool/claude-code, tool/git]
 ---
 # 并行会话 + Git Worktrees

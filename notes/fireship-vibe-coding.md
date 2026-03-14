@@ -1,4 +1,5 @@
 ---
+title: "Fireship 对 Vibe Coding 的评论"
 tags: [person/fireship, topic/vibecoding, topic/trends, source/youtube]
 ---
 # Fireship 对 Vibe Coding 的评论

@@ -1,4 +1,5 @@
 ---
+title: "人工审查不可省略"
 tags: [person/boris-cherny, topic/quality, topic/code-review]
 ---
 # 人工审查不可省略

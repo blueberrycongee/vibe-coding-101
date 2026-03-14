@@ -1,7 +1,8 @@
 ---
+title: "中文标题"
 tags: [person/PERSON, topic/TOPIC, tool/TOOL, source/SOURCE]
 ---
-# 标题
+# 中文标题
 
 ## 方法
 -

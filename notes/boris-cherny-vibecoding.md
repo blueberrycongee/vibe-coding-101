@@ -1,9 +1,10 @@
 ---
+title: "Boris Cherny 的 vibecoding 实践时间线"
 tags: [person/boris-cherny, topic/vibecoding, tool/claude-code, topic/workflow, source/transcript, source/x]
 ---
-# Boris Cherny on vibecoding and Claude Code (timeline)
+# Boris Cherny 的 vibecoding 实践时间线
 
-This is a best-effort, source-based summary of **Boris Cherny’s public statements** about vibecoding and how he uses/frames Claude Code. It is **not guaranteed to be exhaustive**.
+基于公开来源整理的 **Boris Cherny 关于 vibecoding 和 Claude Code 的公开发言**时间线。不保证穷尽所有来源。
 
 ## 2025-05-08 — Latent Space Podcast (Claude Code: Anthropic's Agent in Your Terminal)
 Source: Latent Space transcript.

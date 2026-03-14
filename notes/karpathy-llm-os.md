@@ -1,4 +1,5 @@
 ---
+title: "Karpathy 的 LLM OS 愿景"
 tags: [person/andrej-karpathy, topic/architecture, topic/llm, source/youtube]
 ---
 # Karpathy 的 LLM OS 愿景

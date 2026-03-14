@@ -1,4 +1,5 @@
 ---
+title: "Simon Willison 的 AI 编程实践"
 tags: [person/simon-willison, topic/vibecoding, topic/workflow, topic/vibe-engineering, tool/claude-code, tool/chatgpt, source/blog]
 ---
 # Simon Willison 的 AI 编程实践

@@ -1,4 +1,5 @@
 ---
+title: "Vibecoding 是场景化的"
 tags: [person/boris-cherny, topic/vibecoding, topic/quality]
 ---
 # Vibecoding 是场景化的

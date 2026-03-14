@@ -1,4 +1,5 @@
 ---
+title: "Pieter Levels 的 AI 快速发布实践"
 tags: [person/pieter-levels, topic/vibecoding, topic/indie-hacking, topic/shipping, source/x]
 ---
 # Pieter Levels 的 AI 快速发布实践

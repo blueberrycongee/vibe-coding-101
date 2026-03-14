@@ -1,4 +1,5 @@
 ---
+title: "Karpathy：Software 三个时代"
 tags: [person/andrej-karpathy, topic/architecture, topic/software-evolution, source/talk]
 ---
 # Karpathy: Software 三个时代（Software 3.0）

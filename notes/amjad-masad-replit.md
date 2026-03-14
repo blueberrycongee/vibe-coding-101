@@ -1,4 +1,5 @@
 ---
+title: "Amjad Masad 与 Replit 的 AI 编程愿景"
 tags: [person/amjad-masad, topic/vibecoding, topic/tools, tool/replit, source/x, source/interview]
 ---
 # Amjad Masad 与 Replit 的 AI 编程愿景

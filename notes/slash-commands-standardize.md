@@ -1,4 +1,5 @@
 ---
+title: "用 Slash Commands 标准化工作流"
 tags: [person/boris-cherny, topic/workflow, topic/automation, tool/claude-code]
 ---
 # 用 Slash Commands 标准化工作流

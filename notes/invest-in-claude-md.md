@@ -1,4 +1,5 @@
 ---
+title: "持续投资 CLAUDE.md"
 tags: [person/boris-cherny, topic/prompting, topic/project-rules, tool/claude-code]
 ---
 # 持续投资 CLAUDE.md

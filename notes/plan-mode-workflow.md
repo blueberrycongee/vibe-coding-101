@@ -1,4 +1,5 @@
 ---
+title: "Plan Mode 工作流"
 tags: [person/boris-cherny, topic/workflow, topic/planning, tool/claude-code]
 ---
 # Plan Mode 工作流

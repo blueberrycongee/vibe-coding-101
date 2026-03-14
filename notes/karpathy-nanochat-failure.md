@@ -1,4 +1,5 @@
 ---
+title: "Karpathy 的 Nanochat：承认 Vibe Coding 局限"
 tags: [person/andrej-karpathy, topic/vibecoding, topic/limitations, source/github]
 ---
 # Karpathy 的 Nanochat：承认 Vibe Coding 不适用
